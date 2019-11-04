@@ -1,0 +1,40 @@
+
+h1	{
+	color : #504658;
+	font-size: 30px;
+	font-style: montserrat, bold;
+	font-weight: bold;
+}
+
+body{
+	background: #f0decb;
+	font-size: 14px;
+	font-style: montserrat, sans serif;
+	color rgb (100,100,100)
+}
+strong	{
+	color: #ce2e6c;
+}
+
+h1 {
+	background-image: url(image/background.png);
+}
+#photo{
+	width : 150px
+	;
+	;
+}
+.container {
+	width: 700px;
+	margin: 400px;
+	text-align: center;
+
+}
+.card-element {
+	background-color: white; 
+	padding: 0px;
+	box-shadow: 0PX 10px 30px rgb(0,0,0,0.2);
+	border-radius: 4px
+	margin: 20px 0px;
+
+}
